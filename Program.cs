@@ -1,6 +1,6 @@
 ﻿using System;
  
-namespace nomer_dnya_nedeli
+namespace kvadrat_chisla
 {
     class Program
     {
